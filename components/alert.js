@@ -25,12 +25,12 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              You can reach me at{' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`mailto:blackjosephryan@gmail.com`}
                 className="underline hover:text-success duration-200 transition-colors"
               >
-                available on GitHub
+              blackjosephryan@gmail.com
               </a>
               .
             </>
