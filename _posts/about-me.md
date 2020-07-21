@@ -20,22 +20,22 @@ I love where I live, and take advantage of all that the bay area has to offer - 
 
 <div class="bg-white rounded-lg overflow-hidden border border-gray-400 p-4 text-xs">
 
-  <div class="rounded flex items-center h-auto">
-    <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://www.ryanjblack.io/creative-email-examples.zip"><img class="m:auto" src="/assets/blog/preview/emailExamples.png" /><p>Email Marketing Samples</p></a></div>
-    <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://ryanjblack.io/TampaBayWatchFinalReport.pdf"><img class="m:auto" src="/assets/blog/preview/img1tbw.png" /><p>Digital Marketing Audit</p></a></div>
-    <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/lolisthumb.png" /><p>Website Redesign</p></div>
-  </div>
+<div class="rounded flex items-center h-auto">
+<span class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://www.ryanjblack.io/creative-email-examples.zip"><img class="m:auto" src="/assets/blog/preview/emailExamples.png" /><p>Email Marketing Samples</p></a></span>
+<spin class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://ryanjblack.io/TampaBayWatchFinalReport.pdf"><img class="m:auto" src="/assets/blog/preview/img1tbw.png" /><p>Digital Marketing Audit</p></a></spin>
+<spin class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/lolisthumb.png" /><p>Website Redesign</p></spin>
+</div>
 
-  <div class="flex items-center h-auto">
-      <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/rectangle.png" /><p>Marketing Campaign</p></div>
-      <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://http://ryanjblack.io/hw4_black_ryan/"><img class="m:auto" src="/assets/blog/preview/giphy2.gif" /><p>Business Card</p></a></div>
-      <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://www.ryanjblack.io/p3_black_ryan/"><img class="m:auto" src="/assets/blog/preview/catfish.png" /><p>CSS3</p></a></div>
-  </div>
+<div class="flex items-center h-auto">
+<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/rectangle.png" /><p>Marketing Campaign</p></div>
+<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://http://ryanjblack.io/hw4_black_ryan/"><img class="m:auto" src="/assets/blog/preview/giphy2.gif" /><p>Business Card</p></a></div>
+<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://www.ryanjblack.io/p3_black_ryan/"><img class="m:auto" src="/assets/blog/preview/catfish.png" /><p>CSS3</p></a></div>
+</div>
 
-  <div class="rounded flex items-center h-auto">
-      <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://www.ryanjblack.io/Model_1522_Operator's_Manual_(SAM-00701a-EN)(1).pdf"><img class="m:auto" src="/assets/blog/preview/imgucs.png" /><p>Manual</p></a></div>
-      <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/lawnpartspro.jpg" /><p>Blog</p></div>
-      <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://ryanjblack.io/outtatime/"><img class="m:auto" src="/assets/blog/preview/cartoonlorean.png" /><p>Fun</p></a></div>
-  </div>
+<div class="rounded flex items-center h-auto">
+<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://www.ryanjblack.io/Model_1522_Operator's_Manual_(SAM-00701a-EN)(1).pdf"><img class="m:auto" src="/assets/blog/preview/imgucs.png" /><p>Manual</p></a></div>
+<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/lawnpartspro.jpg" /><p>Blog</p></div>
+<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://ryanjblack.io/outtatime/"><img class="m:auto" src="/assets/blog/preview/cartoonlorean.png" /><p>Fun</p></a></div>
+</div>
 
 </div>
