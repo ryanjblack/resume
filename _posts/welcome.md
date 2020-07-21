@@ -12,6 +12,12 @@ ogImage:
 
 Here is a brief overview of my skills and background.
 
+Dimensions | Megapixels
+---|---
+1,920 x 1,080 | 2.1MP
+3,264 x 2,448 | 8MP
+4,288 x 3,216 | 14MP
+
 Be sure to check out my <a class="hover:underline text-blue-600" href="http://www.ryanjblack.io/posts/resume">resume</a> and <a class="hover:underline text-blue-600" href="http://www.ryanjblack.io/posts/about-me">work examples</a> pages for even more information.
 
 ## Digital Marketing
