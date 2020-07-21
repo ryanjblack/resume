@@ -14,7 +14,7 @@ Here is a brief overview of my skills and background.
 
 Dimensions | Megapixels
 ---|---
-1,920 x 1,080 | 2.1MP
+1,920 x 1,080 | 2.1MPC
 3,264 x 2,448 | 8MP
 4,288 x 3,216 | 14MP
 
