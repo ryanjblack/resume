@@ -15,17 +15,17 @@ I am a digital marketer with hands-on experience in all levels of campaign imple
 
 My specialties include CRM administration and reporting, SEO, SEM, next-gen web design and development, automated marketing systems, email marketing, and establishing lasting user experiences.
 
-<div class="bg-white rounded-t-lg rounded-b-lg overflow-hidden border border-gray-400 p-4">
-<div class="grid grid-rows-3 grid-flow-col gap-4 mt-6">
+<div class="bg-white rounded-t-lg rounded-b-lg overflow-hidden border border-gray-400 p-4 markdown="1"">
+<div class="grid grid-rows-3 grid-flow-col gap-4 mt-6 markdown="1"">
 <div class="row-span-3 text-center ml-8"><img class="m-auto" src="/assets/blog/authors/profileb.png" /></div>
 <div class="text-3xl font-semibold row-span-1 col-span-2 text-center">Digital Marketing</div>
 <div class="row-span-2 col-span-2 text-center"><span class="font-semibold">Education:</span> <br /><span class="text-sm font-hairline">MAMC, Web Design | UF <br />BA, News-Editing | USF </span></div>
 </div>
-<div class="grid grid-cols-6 gap-4 pt-8">
+<div class="grid grid-cols-6 gap-4 pt-8 markdown="1"">
 <div class="col-span-4 bg-blue-500 h-2 flex items-center justify-center"></div>
 <div class="col-span-2 bg-blue-300 h-2 flex items-center justify-center"></div>
 </div>
-<table class="table-fixed">
+<table class="table-fixed markdown="1"">
 <thead>
 <tr>
 <th class="font-semibold px-4 pt-8 pb-2 w-4/6 text-lg">Work Experience</th>
