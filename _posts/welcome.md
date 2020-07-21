@@ -1,6 +1,6 @@
 ---
 title: 'Digital Marketing Solutions'
-excerpt: 'My name is Ryan and I am an experienced digital marketer, coder and CRM expert. Welcome to my website and portfolio. I am excited to share my work and experiences with you.'
+excerpt: 'My name is Ryan and I am an experienced digital marketer, coder and CRM expert. Welcome to my website and portfolio. I am excited to share my work and experiences with you. Pardon my dust, I am currently deploying this app.'
 coverImage: '/assets/blog/dynamic-routing/cover.gif'
 date: '2020-07-21T05:35:07.322Z'
 author:
