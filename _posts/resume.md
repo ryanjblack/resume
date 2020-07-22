@@ -15,7 +15,7 @@ I am a digital marketer with hands-on experience in all levels of campaign imple
 
 My specialties include CRM administration and reporting, SEO, SEM, next-gen web design and development, automated marketing systems, email marketing, and establishing lasting user experiences.
 
-<div class="bg-white rounded-t-lg rounded-b-lg overflow-hidden border border-gray-400 p-4">
+<span class="bg-white rounded-t-lg rounded-b-lg overflow-hidden border border-gray-400 p-4">
   <div class="grid grid-rows-3 grid-flow-col gap-4 mt-6">
     <div class="text-3xl font-semibold row-span-1 col-span-2 text-center">Digital Marketing</div>
     <div class="row-span-2 col-span-2 text-center"><span class="font-semibold">Education:</span> <br /><span class="text-sm font-hairline">MAMC, Web Design | UF <br />BA, News-Editing | USF </span></div>
@@ -79,9 +79,9 @@ My specialties include CRM administration and reporting, SEO, SEM, next-gen web 
   </div>
   <div class="p-4 mt-8">
     <span class="block text-center px-4 pt-8 pb-2 font-semibold text-3xl">Skills + Specialties</span>
-    <span class="border block text-center px-4 py-2 mt-2">Coding    <p class="font-light">next.JS, React, PHP, HTML5, CSS3, jQuery</p></span>
+    <span class="block text-center px-4 py-2 mt-2">Coding    <p class="font-light">next.JS, React, PHP, HTML5, CSS3, jQuery</p></span>
     <span class="block text-center bg-blue-100 px-4 py-2 mt-2">CRM     <p class="font-light">Salesforce, Pardot, Infusionsoft, HubSpot</p></span>
     <span class="block text-center px-4 py-2 mt-2">Content     <p class="font-light">Adobe CC, Yoast</p></span>
     <span class="block text-center bg-blue-100 px-4 py-2 mt-2">SEO + Deliverability     <p class="font-light">SEM Rush, Screaming Frog, aHrefs, Google Analytics, ReturnPath</p></span>
   </div>
-</div>
+</span>
