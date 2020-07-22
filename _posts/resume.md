@@ -78,8 +78,8 @@ My specialties include CRM administration and reporting, SEO, SEM, next-gen web 
     <div class="col-span-2 bg-blue-300 h-2 flex items-center justify-center"></div>
   </div>
   <div class="p-4 mt-8">
-    <span class="block text-center px-4 pt-8 font-semibold text-3xl pb-8">Skills + Specialties</span>
-    <span class="block text-center px-4 py-2 mt-2">Coding    <p class="font-light">next.JS, React, PHP, HTML5, CSS3, jQuery</p></span>
+    <span class="block text-center px-4 pt-8 font-semibold text-3xl">Skills + Specialties</span>
+    <span class="block text-center px-4 py-2 mt-2 pt-8">Coding    <p class="font-light">next.JS, React, PHP, HTML5, CSS3, jQuery</p></span>
     <span class="block text-center bg-blue-100 px-4 py-2 mt-2">CRM     <p class="font-light">Salesforce, Pardot, Infusionsoft, HubSpot</p></span>
     <span class="block text-center px-4 py-2 mt-2">Content     <p class="font-light">Adobe CC, Yoast</p></span>
     <span class="block text-center bg-blue-100 px-4 py-2 mt-2">SEO + Deliverability     <p class="font-light">SEM Rush, Screaming Frog, aHrefs, Google Analytics, ReturnPath</p></span>
