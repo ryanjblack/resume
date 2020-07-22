@@ -17,6 +17,4 @@ I grew up in Ft. Lauderdale for most of my life, and have lived and thrived in T
 I love where I live, and take advantage of all that the bay area has to offer - the outdoors, the beach, excellent craft beer, minor and major league sports and friends that make it all worth while.
 
 ## Work Examples
-<div>
-<img class="m:auto" src="/assets/blog/preview/work-samples-png.png" />
-</div>
+![Work Samples](/assets/blog/preview/work-samples-png.png)
