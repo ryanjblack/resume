@@ -18,4 +18,4 @@ I love where I live, and take advantage of all that the bay area has to offer - 
 
 ## Work Examples
 
-<div class="px-4 py-2 m-2"><a href="http://ryanjblack.io/TampaBayWatchFinalReport.pdf"><img class="m:auto" src="/assets/blog/preview/work-samples-png.PNG" /></a></div>
+<div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/work-samples-png.PNG" /></div>
