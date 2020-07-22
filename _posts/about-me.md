@@ -18,3 +18,4 @@ I love where I live, and take advantage of all that the bay area has to offer - 
 
 ## Work Examples
 <img class="m:auto" src="/assets/blog/preview/work-samples-png.png" />
+<img class="m:auto" src="/assets/blog/preview/work-samples-png.png" />
