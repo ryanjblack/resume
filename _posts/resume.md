@@ -18,7 +18,7 @@ My specialties include CRM administration and reporting, SEO, SEM, next-gen web 
 <div class="bg-white rounded-t-lg rounded-b-lg overflow-hidden border border-gray-400 p-4">
   <div class="grid grid-rows-3 grid-flow-col gap-4 mt-6">
     <div class="text-3xl font-semibold row-span-1 col-span-2 text-center">Digital Marketing</div>
-    <div class="row-span-2 col-span-2 text-center"><span class="font-semibold">Education:</span> <br /><span class="text-sm font-hairline">MAMC, Web Design | UF <br />BA, News-Editing | USF </span></div>
+    <div class="row-span-2 col-span-2 text-center mb-8"><span class="font-semibold">Education:</span> <br /><span class="text-sm font-hairline">MAMC, Web Design | UF <br />BA, News-Editing | USF </span></div>
   </div>
   <div class="grid grid-cols-6 gap-4 pt-8">
     <div class="col-span-4 bg-blue-500 h-2 flex items-center justify-center"></div>
