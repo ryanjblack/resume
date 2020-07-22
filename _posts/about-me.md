@@ -21,8 +21,8 @@ I love where I live, and take advantage of all that the bay area has to offer - 
 <div class="bg-white rounded-lg overflow-hidden border border-gray-400 p-4 text-xs">
 
 <div class="rounded flex items-center h-auto">
-<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://www.ryanjblack.io/creative-email-examples.zip"><img class="m:auto" src="/assets/blog/preview/emailExamples.png" /><p>Email Marketing Samples</p></a></div>
-<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://ryanjblack.io/TampaBayWatchFinalReport.pdf"><img class="m:auto" src="/assets/blog/preview/work-samples-png.png" /><p>Digital Marketing Audit</p></a></div>
+<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://www.ryanjblack.io/creative-email-examples.zip"><img class="m:auto" src="/assets/blog/preview/emailExamples.PNG" /><p>Email Marketing Samples</p></a></div>
+<div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><a href="http://ryanjblack.io/TampaBayWatchFinalReport.pdf"><img class="m:auto" src="/assets/blog/preview/work-samples-png.PNG" /><p>Digital Marketing Audit</p></a></div>
 <div class="flex-1 text-gray-700 text-center px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/work-samples-png.png" /><p>Website Redesign</p></div>
 </div>
 
