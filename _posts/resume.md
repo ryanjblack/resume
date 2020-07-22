@@ -57,7 +57,7 @@ My specialties include CRM administration and reporting, SEO, SEM, next-gen web 
     <div class="col-span-2 bg-green-500 h-2 flex items-center justify-center"></div>
     <div class="col-span-4 bg-green-300 h-2 flex items-center justify-center"></div>
   </div>
-  <div class="p-4">
+  <div class="p-4 mt-8">
     <span class="block text-center px-4 pt-8 pb-2 font-semibold text-3xl">Consulting Projects</span>
     <div class="mt-4">
     <span class="block text-center px-4 py-2 mt-4 font-semibold">VantagePoint A.I.<br />
