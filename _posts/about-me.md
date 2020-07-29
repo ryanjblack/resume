@@ -19,6 +19,3 @@ I love where I live, and take advantage of all that the bay area has to offer - 
 ## Work Examples
 
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/work-samples.PNG" /></div>
-
-### Marketing Audit
-<a href="/assets/blog/preview/TampaBayWatchFinalReport.pdf">Check it out</a>
