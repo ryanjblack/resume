@@ -12,7 +12,7 @@ ogImage:
 
 Here is a brief overview of my skills and background.
 
-Be sure to check out my <a class="hover:underline text-blue-600" href="http://www.ryanjblack.io/posts/resume">resume</a> and <a class="hover:underline text-blue-600" href="http://www.ryanjblack.io/posts/about-me">work examples</a> pages for even more information.
+Be sure to check out my <a class="hover:underline" href="http://www.ryanjblack.io/posts/resume">resume</a> and <a class="hover:underline" href="http://www.ryanjblack.io/posts/about-me">work examples</a> pages for even more information.
 
 ## Digital Marketing
 
