@@ -20,7 +20,7 @@ I love where I live, and take advantage of all that the bay area has to offer - 
 
 From web design to CRM management, I have a sizable portfolio to share with you. Whether it's B2B, B2C, or <a class="hover:underline text-blue-600" href=" https://www.vantagepointsoftware.com/">SaaS</a> I have experience with all facets of modern marketing approaches and how to build and admin websites to facilitate those approaches.
 
-## Web Design + Development
+### Web Design + Development
 
 I have over 4 years of web design and development experience, and I have worked across several industries, banners and verticals. I can code in many popular languages and I know the best practices to optimize a website's performance, search engine visibility and UI/UX.
 
@@ -31,6 +31,8 @@ I have over 4 years of web design and development experience, and I have worked 
 Here is an example of a <a class="hover:underline text-blue-600" href="http://ryanjblack.xyz/wp-template/">WordPress theme I made for a client.</a> This site is built for B2B and B2C purposes, with a simple-to-use inventory system.
 
 ### React/next.JS
+
+<div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/react-md.png" /></div>
 
 The current website you are on was coded within a React framework using next.JS and markdown-to-HTML5 files.
 
@@ -46,11 +48,11 @@ Here's some more <a class="hover:underline text-blue-600" href="http://ryanjblac
 
 ### SEO + SEM
 
+<div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/lawnparts-seo.gif" /></div>
+
 One of the main areas I focused on early in my career and education was search engine optimization (from a technical and creative standpoint) as well as search engine marketing.
 
 Having a site that loads quickly, that features rich, informative copy and is easily found on a search is vital for a business's visibility and marketing performance.
-
-<div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/lawnparts-seo.gif" /></div>
 
 My first SEO client many years ago (before the responsive web!) <a class="hover:underline text-blue-600" href="http://lawnpartspro.com/">LawnPartsPro</a> used an outside blog with social media campaigns to boost visibility for the main business <a class="hover:underline text-blue-600" href="https://powermowersales.com/">PowerMowerSales</a>. I also adjusted the main site's copy, alt text and site map organization during their last major site overhaul.
 
@@ -58,9 +60,9 @@ Since then I have provided my SEO + SEM specialty for every client I have worked
 
 ### Web Marketing Audits
 
-Before embarking on a major site overhaul, it's critical to <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/TampaBayWatchFinalReport.pdf">perform key research and audit</a> the current state of the business and its web presence. I have conducted dozens upon dozens of audits for clients around the US and Canada. In my time as an Internet Marketing Specialist at Club Z! and Acti-Kare I would conduct audits for each individual franchise location, which is something I have also done for NPOs, international restaurant chains and many more types of businesses.
+<div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/audits-rebrands-seo.png" /></div>
 
-<div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/audits-rebrands-seo.gif" /></div>
+Before embarking on a major site overhaul, it's critical to <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/TampaBayWatchFinalReport.pdf">perform key research and audit</a> the current state of the business and its web presence. I have conducted dozens upon dozens of audits for clients around the US and Canada. In my time as an Internet Marketing Specialist at Club Z! and Acti-Kare I would conduct audits for each individual franchise location, which is something I have also done for NPOs, international restaurant chains and many more types of businesses.
 
 Tampa Bay Watch recently overhauled their entire digital marketing presence <a class="hover:underline text-blue-600" href="https://tampabaywatch.org/">and website</a> based on my audit.
 
