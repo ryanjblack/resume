@@ -28,7 +28,7 @@ I have over 4 years of web design and development experience, and I have worked 
 
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/web-design-tcb.gif" /></div>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="http://ryanjblack.xyz/wp-template/">work examples</a>
+Here is an example of a <a class="hover:underline text-blue-600" href="http://ryanjblack.xyz/wp-template/">WordPress theme I made for a client.</a> This site is built for B2B and B2C purposes, with a simple-to-use inventory system.
 
 ### React/next.JS
 
@@ -38,74 +38,74 @@ The current website you are on was coded within a React framework using next.JS 
 
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/HTML5-CSS3.gif" /></div>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="http://ryanjblack.xyz/p3_black_ryan/">work examples</a>
+Check out this depth-defying project <a class="hover:underline text-blue-600" href="http://ryanjblack.xyz/p3_black_ryan/">made entirely using CSS3 animation.</a>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="http://ryanjblack.xyz/outtatime/">work examples</a>
+As a fun project, I worked with a group of coders to create <a class="hover:underline text-blue-600" href="http://ryanjblack.xyz/outtatime/">this BTTF-inspired fan project.</a>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="http://ryanjblack.xyz/hw4_black_ryan/">work examples</a>
+Here's some more <a class="hover:underline text-blue-600" href="http://ryanjblack.xyz/hw4_black_ryan/">CSS3 animation goodness.</a>
 
 ### SEO + SEM
 
-Copy goes here as well
+One of the main areas I focused on early in my career and education was search engine optimization (from a technical and creative standpoint) as well as search engine marketing.
+
+Having a site that loads quickly, that features rich, informative copy and is easily found on a search is vital for a business's visibility and marketing performance.
 
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/lawnparts-seo.gif" /></div>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="http://lawnpartspro.com/">work examples</a>
+My first SEO client many years ago (before the responsive web!) <a class="hover:underline text-blue-600" href="http://lawnpartspro.com/">LawnPartsPro</a> used an outside blog with social media campaigns to boost visibility for the main business <a class="hover:underline text-blue-600" href="https://powermowersales.com/">PowerMowerSales</a>. I also adjusted the main site's copy, alt text and site map organization during their last major site overhaul.
 
-Copy goes Here <a class="hover:underline text-blue-600" href="https://powermowersales.com/">work examples</a>
+Since then I have provided my SEO + SEM specialty for every client I have worked with and seen positive results in user engagements and site performance.
 
 ### Web Marketing Audits
 
+Before embarking on a major site overhaul, it's critical to <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/TampaBayWatchFinalReport.pdf">perform key research and audit</a> the current state of the business and its web presence. I have conducted dozens upon dozens of audits for clients around the US and Canada. In my time as an Internet Marketing Specialist at Club Z! and Acti-Kare I would conduct audits for each individual franchise location, which is something I have also done for NPOs, international restaurant chains and many more types of businesses.
+
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/audits-rebrands-seo.gif" /></div>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="https://tampabaywatch.org/">work examples</a>
+Tampa Bay Watch recently overhauled their entire digital marketing presence <a class="hover:underline text-blue-600" href="https://tampabaywatch.org/">and website</a> based on my audit.
 
-Copy goes Here <a class="hover:underline text-blue-600" href="http://www.mrmikesfranchise.ca/about/our-story/">work examples</a>
+<a class="hover:underline text-blue-600" href="http://www.mrmikesfranchise.ca/about/our-story/">RAMMP restaurant group</a>
 
 ## CRM / Email Marketing
 
-Copy goes here
-
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/crm-pardot.gif" /></div>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/email-example-folder.zip">work examples</a>
+Email marketing and collecting user data is a cornerstone for a successful marketing campaign, and one of my favorite parts of the entire marketing process.
 
-https://www.trucksandparts.com/
-https://www.instagram.com/trucksandparts/
-https://bigtruckrental.com/
-https://tampacrane.com/
-http://eess-llc.com/
-https://www.sunbeltwaste.com/
+I am passionate about automated email marketing - from deliverability, A/B testing, segmentation and creating engagement programs for customer funnels/journeys.
 
-## Content Marketing
+I have several dozen hours trained in Salesforce, Pardot, Infusionsoft and HubSpot as well as other platforms such as Constant Contact and MailChimp.  
 
-Copy goes Here
+When I am coding emails and creating automated engagement campaigns <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/email-example-folder.zip">that is my happy place.</a>
+
+> I Created Marketing Campaigns For the Following:
+
+- https://www.trucksandparts.com/
+  - https://www.instagram.com/trucksandparts/
+- https://bigtruckrental.com/
+- https://tampacrane.com/
+- http://eess-llc.com/
+- https://www.sunbeltwaste.com/
+
+### Content Marketing
 
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/content-seo-marketing.gif" /></div>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/copywriting-email-mktg.zip">work examples</a>
+I have a background in old-school journalism and news-editing, so I am extremely comfortable composing and arranging copy <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/copywriting-email-mktg.zip">like these newsletter examples</a> for franchisees.
 
-https://clubztutoring.com/
-https://actikare.com/
+> I Created This Content (in addition to many other duties) for:
+
+- https://clubztutoring.com/
+- https://actikare.com/
 
 ### Integrated Marketing Campaigns
 
-Copy goes here
-
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/IMC-mix.gif" /></div>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/polaris-imc.zip">work examples</a>
+<a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/polaris-imc.zip">Capturing the essence</a> of a marketing message is an integral part of a successful campaign.
 
 ### Video Production
 
-blackjosephryan
-
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/video-ex.png" /></div>
 
-Copy goes Here <a class="hover:underline text-blue-600" href="https://www.youtube.com/channel/UC3tETVtxDkjpSpwOgnMgBZA">work examples</a>
-
-### Copywriting
-
-copy goes Here
-
-Copy goes Here <a class="hover:underline text-blue-600" href="https://www.youtube.com/channel/UC3tETVtxDkjpSpwOgnMgBZA">work examples</a>
+I am also skilled with <a class="hover:underline text-blue-600" href="https://www.youtube.com/channel/UC3tETVtxDkjpSpwOgnMgBZA">video production</a>. Videos are a great way to engage customers via email and generate interest for leads.
