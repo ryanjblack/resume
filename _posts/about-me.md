@@ -32,7 +32,7 @@ Here is an example of a <a class="hover:underline text-blue-600" href="http://ry
 
 ### React/next.JS
 
-<div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/react-md.png" /></div>
+<div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/react-md.PNG" /></div>
 
 The current website you are on was coded within a React framework using next.JS and markdown-to-HTML5 files.
 
