@@ -80,25 +80,11 @@ I have several dozen hours trained in Salesforce, Pardot, Infusionsoft and HubSp
 
 When I am coding emails and creating automated engagement campaigns <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/email-example-folder.zip">that is my happy place.</a>
 
-> I Created Marketing Campaigns For the Following:
-
-- https://www.trucksandparts.com/
-  - https://www.instagram.com/trucksandparts/
-- https://bigtruckrental.com/
-- https://tampacrane.com/
-- http://eess-llc.com/
-- https://www.sunbeltwaste.com/
-
 ### Content Marketing
 
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/content-seo-marketing.gif" /></div>
 
-I have a background in old-school journalism and news-editing, so I am extremely comfortable composing and arranging copy <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/copywriting-email-mktg.zip">like these newsletter examples</a> for franchisees.
-
-> I Created This Content (in addition to many other duties) for:
-
-- https://clubztutoring.com/
-- https://actikare.com/
+I have a background in old-school journalism and news-editing, so I am extremely comfortable composing and arranging copy <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/copywriting-email-mktg.zip">like these newsletter examples</a> for <a class="hover:underline text-blue-600" href="https://clubztutoring.com/">Club Z!</a> and <a class="hover:underline text-blue-600" href="https://actikare.com/">Acti-Kare</a> franchisees.
 
 ### Integrated Marketing Campaigns
 
