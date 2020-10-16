@@ -62,7 +62,7 @@ Since then I have provided my SEO + SEM specialty for every client I have worked
 
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/audits-rebrands-seo.png" /></div>
 
-Before embarking on a major site overhaul, it's critical to <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/wp-template/wp-content/uploads/2019/02/TampaBayWatchFinalReport2.pdf">perform key research and audit</a> the current state of the business and its web presence. I have conducted dozens upon dozens of audits for clients around the US and Canada. In my time as an Internet Marketing Specialist at Club Z! and Acti-Kare I would conduct audits for each individual franchise location, which is something I have also done for NPOs, international restaurant chains and many more types of businesses.
+Before embarking on a major site overhaul, it's critical to <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/TampaBayWatchFinalReport.pdf">perform key research and audit</a> the current state of the business and its web presence. I have conducted dozens upon dozens of audits for clients around the US and Canada. In my time as an Internet Marketing Specialist at Club Z! and Acti-Kare I would conduct audits for each individual franchise location, which is something I have also done for NPOs, international restaurant chains and many more types of businesses.
 
 Tampa Bay Watch recently overhauled their entire digital marketing presence <a class="hover:underline text-blue-600" href="https://tampabaywatch.org/">and website</a> based on my audit.
 
@@ -78,19 +78,19 @@ I am passionate about automated email marketing - from deliverability, A/B testi
 
 I have several dozen hours trained in Salesforce, Pardot, Infusionsoft and HubSpot as well as other platforms such as Constant Contact and MailChimp.  
 
-When I am coding emails and creating automated engagement campaigns <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/wp-template/wp-content/uploads/2019/02/email-example-folder.zip">that is my happy place.</a>
+When I am coding emails and creating automated engagement campaigns <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/email-example-folder.zip">that is my happy place.</a>
 
 ### Content Marketing
 
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/content-seo-marketing.gif" /></div>
 
-I have a background in old-school journalism and news-editing, so I am extremely comfortable composing and arranging copy <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/wp-template/wp-content/uploads/2019/02/copywriting-email-mktg.zip">like these newsletter examples</a> for <a class="hover:underline text-blue-600" href="https://clubztutoring.com/">Club Z!</a> and <a class="hover:underline text-blue-600" href="https://actikare.com/">Acti-Kare</a> franchisees.
+I have a background in old-school journalism and news-editing, so I am extremely comfortable composing and arranging copy <a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/copywriting-email-mktg.zip">like these newsletter examples</a> for <a class="hover:underline text-blue-600" href="https://clubztutoring.com/">Club Z!</a> and <a class="hover:underline text-blue-600" href="https://actikare.com/">Acti-Kare</a> franchisees.
 
 ### Integrated Marketing Campaigns
 
 <div class="px-4 py-2 m-2"><img class="m:auto" src="/assets/blog/preview/IMC-mix.gif" /></div>
 
-<a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/wp-template/wp-content/uploads/2019/02/polaris-imc.zip">Capturing the essence</a> of a marketing message is an integral part of a successful campaign.
+<a class="hover:underline text-blue-600" href="http://www.ryanjblack.xyz/polaris-imc.zip">Capturing the essence</a> of a marketing message is an integral part of a successful campaign.
 
 ### Video Production
 
