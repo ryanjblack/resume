@@ -29,5 +29,3 @@ export default class MyDocument extends Document {
     )
   }
 }
-
-UA-180730486-1
