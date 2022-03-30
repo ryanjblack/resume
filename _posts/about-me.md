@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/preview/cover.gif'
 ---
 
-## Florida Born + Raised
+## Florida Born + Raised II
 
 I grew up in Ft. Lauderdale for most of my life, and have lived and thrived in Tampa since 2011. I graduated from USF in 2015 with my BA in Journalism and from UF in 2018 with my MAMC in Web Design.
 
