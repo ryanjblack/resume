@@ -1,4 +1,9 @@
-# A statically generated blog example using Next.js and Markdown
+# Hey! I'm Ryan and this site/app is made using Next.js and coded using Markdown
+
+I made my portfolio site this way so I can update it from anywhere in the world via GitHub (no setting up a server, FTP, opening an IDE, etc.) 
+I think it's pretty cool, thanks for checking this out!
+
+## Notes from Dev:
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using markdown files as the data source.
 
